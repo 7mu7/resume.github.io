@@ -1,4 +1,0 @@
-baseURL = 'https://resume.github.io'
-languageCode = 'en-us'
-title = 'resume'
-theme = 'hugo-profile'
